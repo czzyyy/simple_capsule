@@ -24,3 +24,8 @@ matplotlib 3.0.0
 ![image](https://github.com/czzyyy/simple_capsule/blob/master/generate/54reconstruct.png)
 ![image](https://github.com/czzyyy/simple_capsule/blob/master/generate/57reconstruct.png)
 ![image](https://github.com/czzyyy/simple_capsule/blob/master/generate/61reconstruct.png)
+## loss
+![image](https://github.com/czzyyy/simple_capsule/blob/master/train/accuracy.png)
+![image](https://github.com/czzyyy/simple_capsule/blob/master/train/classify_loss.png)
+![image](https://github.com/czzyyy/simple_capsule/blob/master/train/reconstruct_loss.png)
+![image](https://github.com/czzyyy/simple_capsule/blob/master/train/total_loss.png)
